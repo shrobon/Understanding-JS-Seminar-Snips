@@ -15,7 +15,7 @@ var spanish = {};
 
 //notice the difference 
 english.greet =  "Hello";
-english.greet =  "Hola";
+spanish.greet =  "Hola";
 
 console.log(english);
 

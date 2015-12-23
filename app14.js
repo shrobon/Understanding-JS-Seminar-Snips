@@ -24,7 +24,8 @@ b();
 
 var c = {
 	name:'The C Object',
-	log : function(){ //functions attached to an object are called methods
+	log : function(){ 
+	    //functions attached to an object are called methods
 		
 		var self = this;/** RECTIFICATION * now use self instead of this ! solves the problem */ 
 

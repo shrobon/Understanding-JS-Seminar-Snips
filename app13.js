@@ -2,10 +2,10 @@
 
 Lesson : By value and by Reference
 
-Primities are passed by value
+Primitives are passed by value
 
 Objects are passed by reference 
-b=a (where a is an object)
+b = a (where a is an object)
 b is an alias of A . 
 */
 

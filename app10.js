@@ -2,7 +2,7 @@
 
 Lesson : JSON 
 JavaScript Object Notation 
-**Beter than XML : COnsider download times and bandwidth 
+**Beter than XML : Consider download times and bandwidth 
 Values need to be parsed in quotes 
 
 */

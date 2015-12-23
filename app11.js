@@ -5,7 +5,8 @@ Assign them to variables, pass them around , create them on the fly
 
 In javaScript functions are nothing but objects 
 
-A function in JS may or maynot have a name. Without Name : anonymous
+A function in JS may or may-not have a name. 
+functions Without Name : anonymous
 
 CODE property of a function: it is invocable
 */

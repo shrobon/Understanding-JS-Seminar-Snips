@@ -1,5 +1,6 @@
 # Understanding-JS-Seminar-Snips
-This repo contains all the code snippets i will be using for my presentation . Introduction to Javascript . <br />
+This repo contains all the code snippets i will be using for my presentation .<br />
+## Introduction to Javascript . <br />
 1. Concept of Hoisting <br />
 2. === and ==<br />
 3. Global execution context<br />
@@ -13,3 +14,5 @@ This repo contains all the code snippets i will be using for my presentation . I
 12.Pass by value and Pass by Reference <br />
 13.this keyword || using self instead<br />
 14.Storing functions in arrays <br />
+15.arguments keyword and default parameters <br />
+16.Immediately Invoked function expressions IIFE

@@ -8,11 +8,11 @@ This repo contains all the code snippets i will be using for my presentation .<b
 5. Callbacks and Event Queue's<br />
 6. JavaScript Objects<br />
 7. JSON and Object literal Notation <br />
-9. Avoiding namespace collision <br />
-10.First class functions <br />
-11.Functions statements and passing functions as parameters <br />
-12.Pass by value and Pass by Reference <br />
-13.this keyword || using self instead<br />
-14.Storing functions in arrays <br />
-15.arguments keyword and default parameters <br />
-16.Immediately Invoked function expressions IIFE
+8. Avoiding namespace collision <br />
+9.First class functions <br />
+10.Functions statements and passing functions as parameters <br />
+11.Pass by value and Pass by Reference <br />
+12.this keyword || using self instead<br />
+13.Storing functions in arrays <br />
+14.arguments keyword and default parameters <br />
+15.Immediately Invoked function expressions IIFE

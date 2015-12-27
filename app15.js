@@ -3,6 +3,7 @@
 JavaScript is Dynamically typed 
 A Js array can hold a collection of anything
 It can also hold functions and we can even call them 
+
 */
 var arr = new Array();
 var arr1 = [1,

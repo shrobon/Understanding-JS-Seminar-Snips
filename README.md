@@ -18,6 +18,8 @@ This repo contains all the code snippets i will be using for my presentation . <
 15.Immediately Invoked function expressions IIFE <br />
 16.Understanding Closures <br />
 17. call() , apply() , bind() <br />
-18. Function Borrowing 
-19. Function Currying
-20. Functional Programming
+18. Function Borrowing <br />
+19. Function Currying  <br />
+20. Functional Programming <br />
+21. Object-Oriented Javascript and Prototypal Inheritance <br />
+22. Reflection & Extend 
